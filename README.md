@@ -17,11 +17,11 @@ Step 1: Install the Python 3.7 or a higher version of Python environment for run
 
 Step 2: Prepare the input data files "node.csv", "road_link.csv" and "agent.csv" according to the specified data format in the sample files, where the sample files are available at the "examples" folder.
 
-Step 3: Run the python code on your computer and save the generated figure containing the resource-space-time trajectories of the agents.
+Step 3: Run the python code on your computer and save the generated figure containing the space-time and resource-space-time trajectories of the agents.
 
 The following figure shows the structure of the network in the sample files.
 
-![output](resource-space-time-routing/images/Figure_1.png)
+![output](images/Figure_1.jpg)
 
 The following figure illustrates the structure of the network the sample files in the NeXTA software (https://github.com/xzhou99/NeXTA-GMNS).
 
