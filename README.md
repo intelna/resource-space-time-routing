@@ -1,5 +1,5 @@
 # resource-space-time-routing
-An open-source tool for the optimization and visualization of the "resource-space-time" trajectories of the agents based on dynamic programming
+An open-source tool for the optimization and visualization of the "resource-space-time" trajectories of the agents based on dynamic programming.
 
 ###Collabrators: 
 
@@ -21,15 +21,15 @@ Step 3: Run the python code on your computer and save the generated figure conta
 
 The following figure shows the structure of the network in the sample files.
 
-![output](images/Figure_1.png)
+![output](resource-space-time-routing/images/Figure_1.png)
 
 The following figure illustrates the structure of the network the sample files in the NeXTA software (https://github.com/xzhou99/NeXTA-GMNS).
 
-![output](images/Figure_2.png)
+![output](resource-space-time-routing/images/Figure_2.png)
 
 The following two figures show the space-time and resource-space-time trajectories of the agent, respectively. The readers can check the detailed information on the input data in the "examples" folder.
 
 Space-time trajectory of the agent:
-![output](/images/Figure_3.png)
+![output](resource-space-time-routing/images/Figure_3.png)
 Resource-space-time trajectory of the four agent:
-![output](/images/Figure_4.png)
+![output](resource-space-time-routing/images/Figure_4.png)
