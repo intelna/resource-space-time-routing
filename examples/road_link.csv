@@ -1,0 +1,7 @@
+link_id,from_node_id,to_node_id,min_travel_time,max_travel_time,travel_cost,speed_limit,resource_cost,capacity
+1,1,2,2,2,2,60,2,0
+2,2,3,3,3,3,60,3,0
+3,3,4,3,3,2,60,3,0
+4,3,5,5,5,5,60,-10,3
+5,5,4,2,2,2,60,2,0
+6,4,6,4,4,4,60,4,0
