@@ -31,5 +31,6 @@ The following two figures show the space-time and resource-space-time trajectori
 
 Space-time trajectory of the agent:
 ![output](images/Figure_3.jpg)
+
 Resource-space-time trajectory of the four agent:
 ![output](images/Figure_4.jpg)
