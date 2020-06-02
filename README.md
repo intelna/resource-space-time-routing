@@ -25,11 +25,11 @@ The following figure shows the structure of the network in the sample files.
 
 The following figure illustrates the structure of the network the sample files in the NeXTA software (https://github.com/xzhou99/NeXTA-GMNS).
 
-![output](resource-space-time-routing/images/Figure_2.png)
+![output](images/Figure_2.jpg)
 
 The following two figures show the space-time and resource-space-time trajectories of the agent, respectively. The readers can check the detailed information on the input data in the "examples" folder.
 
 Space-time trajectory of the agent:
-![output](resource-space-time-routing/images/Figure_3.png)
+![output](images/Figure_3.jpg)
 Resource-space-time trajectory of the four agent:
-![output](resource-space-time-routing/images/Figure_4.png)
+![output](images/Figure_4.jpg)
