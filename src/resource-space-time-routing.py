@@ -9,7 +9,7 @@ DP for Vehicle routing in a resource-space-time network
 from collections import namedtuple
 import pandas as pd
 import numpy as np
-from docplex.mp.model import Model
+#from docplex.mp.model import Model
 import csv
 import networkx as nx
 from mpl_toolkits import mplot3d
