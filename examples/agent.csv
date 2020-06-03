@@ -1,0 +1,2 @@
+agent_id,o_node_id,d_node_id,departure_time_start,departure_time_end,arrival_time_start,arrival_time_end,fuel
+1,1,6,2,2,16,18,9
